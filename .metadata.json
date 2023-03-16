@@ -1,0 +1,10 @@
+[
+  {
+    "package": "FAMetA",
+    "oncran": true
+  },
+  {
+    "package": "LipidMS",
+    "oncran": true
+  }
+]
