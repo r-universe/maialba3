@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FAMetA"]
 	path = FAMetA
 	url = https://github.com/maialba3/fameta
-	shallow = true
-	registered = true
 [submodule "LipidMS"]
 	path = LipidMS
 	url = https://github.com/maialba3/lipidms
-	shallow = true
-	registered = true
